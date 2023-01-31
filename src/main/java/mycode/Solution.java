@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 public class Solution {
-    //This program is helping users to buy products in shops, and to control their list of food that was entered before
+    //This program helping users to buy products in shops, and control their list of food that was entered before
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         Set<String> hashSet = new HashSet<>();
